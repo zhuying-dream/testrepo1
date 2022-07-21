@@ -4,4 +4,4 @@ version 2
 
 some content
 
-Piggy trying to make some changes and do a commit, created a branch, then merged it with the main branch. The brance remain active.
+Piggy trying to make some changes and do a commit, created a branch, then merged it with the main branch. The brance remain active, not merged to the main master branch.
